@@ -2,3 +2,4 @@ target/
 .classpath
 .project
 .settings/
+.odo/odo-file-index.json
